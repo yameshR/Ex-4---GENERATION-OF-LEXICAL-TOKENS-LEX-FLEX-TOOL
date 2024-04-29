@@ -1,7 +1,7 @@
 # Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-NAME:RAMYA.P
+NAME:Yamesh R
 
-REGISTER NUMBER:212223240137
+REGISTER NUMBER:212222220059
 
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
